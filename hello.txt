@@ -6,3 +6,6 @@ this is hot-fix-test
 ---------------------
 It is the first time to use GitHub. This is the experimental operation file
 这是第一次使用GitHub。这是实验操作文件
+------------------------
+拉取测试
+---------
